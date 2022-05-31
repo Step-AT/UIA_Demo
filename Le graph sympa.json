@@ -1,0 +1,88 @@
+{"Plots":[{
+    "Tag":{
+        "Sourcer":"Source 1",
+        "SysLab":"T_1"
+    },
+    "Width":2,
+    "Yscale":1,
+    "Visible":true,
+    "Color":8084476,
+    "Interpolation":2,
+    "Point Style":0
+},{
+    "Tag":{
+        "Sourcer":"Source 1",
+        "SysLab":"T_2"
+    },
+    "Width":2,
+    "Yscale":1,
+    "Visible":true,
+    "Color":6512122,
+    "Interpolation":2,
+    "Point Style":0
+},{
+    "Tag":{
+        "Sourcer":"Source 1",
+        "SysLab":"T_3"
+    },
+    "Width":2,
+    "Yscale":1,
+    "Visible":true,
+    "Color":4874487,
+    "Interpolation":2,
+    "Point Style":0
+},{
+    "Tag":{
+        "Sourcer":"Source 2",
+        "SysLab":"pos_1"
+    },
+    "Width":2,
+    "Yscale":1,
+    "Visible":true,
+    "Color":6337536,
+    "Interpolation":2,
+    "Point Style":0
+},{
+    "Tag":{
+        "Sourcer":"Source 2",
+        "SysLab":"pos_2"
+    },
+    "Width":2,
+    "Yscale":1,
+    "Visible":true,
+    "Color":46110,
+    "Interpolation":2,
+    "Point Style":0
+},{
+    "Tag":{
+        "Sourcer":"Source 2",
+        "SysLab":"pos_3"
+    },
+    "Width":2,
+    "Yscale":1,
+    "Visible":true,
+    "Color":46238,
+    "Interpolation":2,
+    "Point Style":0
+}],
+    "NameFormat":{
+        "Sourcer":false,
+        "System":false,
+        "User":true,
+        "Unit":true
+    },
+    "Scales Params":{
+        "Scale 1 visible":false,
+        "Scale 2 visible":true,
+        "Scale 1 auto":false,
+        "Scale 2 auto":true,
+        "Scale 1 text":"",
+        "Scale 2 text":""
+    },
+    "Graph's title":{
+        "Text":"",
+        "Visible":false
+    }
+,
+    "Depth (s)":60.0000000000000
+}
