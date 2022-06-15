@@ -64,6 +64,17 @@
     "Color":46238,
     "Interpolation":2,
     "Point Style":0
+},{
+    "Tag":{
+        "Sourcer":"Source 2",
+        "SysLab":"pos_4"
+    },
+    "Width":2,
+    "Yscale":1,
+    "Visible":true,
+    "Color":16387724,
+    "Interpolation":2,
+    "Point Style":0
 }],
     "NameFormat":{
         "Sourcer":false,
@@ -84,5 +95,5 @@
         "Visible":false
     }
 ,
-    "Depth (s)":60.0000000000000
+    "Depth index":1
 }
